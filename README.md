@@ -16,10 +16,7 @@ This is the place where I post about the stuff I do ! :smile:
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ikrahul&hide_title=true&hide_border=true&langs_count=5)
 
-📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+<br />
 
 ### Connect with me:
 
@@ -28,6 +25,12 @@ This is the place where I post about the stuff I do ! :smile:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
 
 [twitter]: https://twitter.com/rahulban2
 [instagram]: https://www.instagram.com/ikrahul_
