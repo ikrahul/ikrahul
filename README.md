@@ -10,13 +10,7 @@ This is the place where I post about the stuff I do ! :smile:
 - 📫 How to reach me: [@ikrahul_](https://www.instagram.com/ikrahul_/)
 - ⚡ Fun fact: I :heart: :dog:s
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 📊 **This week I spent my time on**
 
@@ -27,6 +21,13 @@ This is the place where I post about the stuff I do ! :smile:
 
 <!-- BLOG-POST-LIST:END -->
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 [twitter]: https://twitter.com/rahulban2
 [instagram]: https://www.instagram.com/ikrahul_
