@@ -10,12 +10,8 @@ This is the place where I post about the stuff I do ! :smile:
 - 📫 How to reach me: [@ikrahul_](https://www.instagram.com/ikrahul_/)
 - ⚡ Fun fact: I :heart: :dog:s
 
-
-
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ikrahul&hide_title=true&hide_border=true&langs_count=5)
-<br />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Connect with me:
 
