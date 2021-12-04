@@ -11,6 +11,9 @@ This is the place where I post about the stuff I do ! :smile:
 - ⚡ Fun fact: I :heart: :dog:s
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### Connect with me:
