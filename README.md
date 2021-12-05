@@ -12,7 +12,8 @@ This is the place where I post about the stuff I do ! :smile:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#      2 hrs 10 mins   ███████████████████████▒░   93.99 % 
+Other   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 <!--END_SECTION:waka-->
 
