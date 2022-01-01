@@ -12,7 +12,8 @@ This is the place where I post about the stuff I do ! :smile:
 
 <!--START_SECTION:waka-->
 ```text
-Other   13 mins         █████████████████████████   100.00 % 
+C#      1 hr 13 mins    ███████████████▓░░░░░░░░░   62.74 % 
+Other   43 mins         █████████▒░░░░░░░░░░░░░░░   37.26 % 
 ```
 <!--END_SECTION:waka-->
 
