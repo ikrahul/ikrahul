@@ -12,7 +12,7 @@ This is the place where I post about the stuff I do ! :smile:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
