@@ -12,8 +12,7 @@ I would introduce myself in seven words. Passionate coder, responsible son, best
 
 ➤ 🌍  I'm based in Pune, India. 🇮🇳 <br />
 ➤ ✉️  You can contact me at [rahulban@live.in](mailto:rahulban@live.in) <br />
-➤ 🧠  I'm learning Snowflake. <br />
-➤ 🤝  I'm open to collaborating on projects involving Python & Data Science. <br />
+➤ 🤝  I'm open to collaborating on projects involving Python & Blockchain. <br />
 ➤ ⚡  I prefer computers over people. <br />
 
 <p align='center'>
