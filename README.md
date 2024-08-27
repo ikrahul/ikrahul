@@ -1,22 +1,23 @@
-# 💫 About Me:
-🔭 Go-Getter.<br>🌱 Learning never ends.
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">A passionate 🌟 Fullstack Developer 🌟 from India. 🇮🇳</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikrahul_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsban) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikrahul&label=Profile%20views&color=62ff42&style=flat" alt="ikrahul" /> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ikrahul&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ikrahul&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikrahul&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikrahul" alt="ikrahul" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ikrahul&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 🔭 I’m currently working on **Blockchain API Provider Solution.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 👯 I’m looking to collaborate on **any interesting project ideas.**
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 📫 How to reach me **rahulban@live.in**
 
----
-[![](https://visitcount.itsvg.in/api?id=ikrahul&icon=0&color=0)](https://visitcount.itsvg.in)
+- ⚡ Fun fact **My side projects have side projects. Always building something new!🌟**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rahulban2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulban2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulsban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsban" height="30" width="40" /></a>
+<a href="https://instagram.com/ikrahul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikrahul_" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikrahul&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="ikrahul" /></p>
