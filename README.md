@@ -100,11 +100,15 @@ After months of building, I've shipped my first major API product — a **self-h
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikrahul&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="ikrahul" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikrahul&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="ikrahul" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikrahul&theme=onestar&no-frame=true&row=1" alt="ikrahul" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ikrahul&theme=onestar&no-frame=true&row=1" alt="ikrahul" />
+  </a>
+</p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
