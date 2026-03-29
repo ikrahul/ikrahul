@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikrahul" alt="ikrahul" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain API Provider Solution.**
+- Update: It's completed. Check it out here **https://rapidapi.com/banrahul038/api/bitcoin-blockchain-real-time-api-direct-node**
 
 - 👯 I’m looking to collaborate on **any interesting project ideas.**
 
