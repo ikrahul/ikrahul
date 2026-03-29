@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20Ban&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Engineer%20%7C%20API%20Builder%20%7C%20Blockchain%20Infra&descAlignY=51&descAlign=50" width="100%"/>
+<h1>Hi 👋, I'm Rahul</h1>
+<h3>Fullstack Engineer · API Builder · Blockchain Infra · India 🇮🇳</h3>
 
 <img src="https://komarev.com/ghpvc/?username=ikrahul&label=Profile%20views&color=f7931a&style=for-the-badge" alt="ikrahul" />
 
@@ -103,12 +103,12 @@ After months of building, I've shipped my first major API product — a **self-h
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikrahul&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="ikrahul" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ikrahul&theme=onestar&no-frame=true&row=1" alt="ikrahul" />
-  </a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ikrahul&theme=tokyonight&hide_border=true" alt="ikrahul streak" />
 </p>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <sub>Built with ☕ from Pune, India · Open to collaborations & API customers</sub>
 </div>
